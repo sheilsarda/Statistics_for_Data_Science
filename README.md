@@ -39,4 +39,17 @@ The course covers the methodological foundations of data science, emphasizing ba
 |Week15         |Lecture 23, Mon, Dec 7   |PAC Learning : Finite Hypothesis classes                                                                            |Chapter 4 of [T3]                                                                          |
 |Week15         |Lecture 24, Wed, Dec 9   |VC Dimension                                                                                                        |6.1-6.3 and Theorem 6.8 of [T3]                                                            |
 
+### References
+
+[T1] Probability and Statistics for Engineering and Sciences, J. L. Devore, 8th Edition, 2012.
+
+[T2] An Introduction to Statistical Learning with Applications in R, G. James, D. Witten, T. Hastie, R. Tibshirani, 2017.
+
+[T3] Understanding Machine Learning: From Theory to Algorithms, S. Shalev-Shwartz, S. Ben-David, 2014.
+ 
+
+Other references: 
+We sometimes cover material beyond the textbooks in class for which the following references may be helpful.
+
+[R1] Mathematical Statistics and Data Analysis, John Rice, 3rd Edition, 2006
 
